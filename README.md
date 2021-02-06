@@ -1,2 +1,2 @@
-# hamay
-dajal
+#qala
+#dajal
